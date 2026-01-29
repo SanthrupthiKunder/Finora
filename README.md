@@ -59,11 +59,11 @@ Displays:
 ### Dashboard
 ![Dashboard](screenshots/Homepage.png)
 
+### Expense Chart
+![Chart](screenshots/Chart.png)
+
 ### Transactions
 ![Transactions](screenshots/Transactions1.png)
 
 ### Categories
 ![Categories](screenshots/Categories.png)
-
-### Expense Chart
-![Chart](screenshots/Chart.png)
