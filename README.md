@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - User-specific transaction and category management  
 - Add, edit, and delete income and expense transactions  
@@ -27,12 +27,12 @@
 
 ---
 
-## 📂 Application Modules
+## Application Modules
 
-### 🔐 Authentication
+### Authentication
 Users can securely log in and access only their personal financial data.
 
-### 📊 Dashboard
+### Dashboard
 Displays:
 - Total income
 - Total expenses
@@ -40,18 +40,18 @@ Displays:
 - Monthly budget status
 - Expense breakdown charts
 
-### 💰 Transactions
+### Transactions
 - Add, edit, delete transactions  
 - Filter income and expenses  
 - Optional notes for each transaction
 
-### 📁 Categories
+### Categories
 - Create, edit, and delete income/expense categories  
 - Fully user-specific category management
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Login
 ![Login](screenshots/login.png)
